@@ -1,0 +1,46 @@
+* {
+  box-sizing: border-box;
+}
+.container {
+  width: 1200px;
+  height: 1200px;
+  margin: 0 auto;
+  border: 1px solid white;
+  padding-top: 125px;
+  padding-left: 153px;
+  background-color: #ffece4;
+}
+.fonts {
+  margin-bottom: 50px;
+  font-family: "Libre Franklin", "san-serif";
+  font-weight: 700;
+  font-size: 24px;
+  color: #828282;
+  margin-left: 153px;
+}
+.information {
+  padding-right: 251px;
+  font-family: "Libre Franklin";
+}
+.name {
+  width: 237px;
+  height: 44px;
+  margin-left: 153px;
+  margin-right: 130px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  color: #333333;
+}
+.letters {
+  font-size: 24px;
+}
+.pallate {
+  margin-bottom: 109px;
+}
+.images {
+  margin-left: 153px;
+}
+.first {
+  margin-bottom: 14px;
+}
